@@ -3,7 +3,7 @@ spring:
       driver-class-name: org.h2.Driver
       url: jdbc:h2:~/Spring/msa/gateway/h2/user
       username: sa
-      password: '{cipher}AYDLyob21OMK7ZFTnUSFyyQQPelpNjzLdy59Wnr6JlzdoBO/RChGYhm5l5QzyuTV6EGlTheJjU04PzPpaobMB3lXc/az3kcL1+BeYg+fqo65EH3AV3wUk8GzpotEbmnio9nE7rYrEmBGIYjGZItRlvI9+gxOp61D+/JOw/7f0jpUh4emBKZ28bWVgTmH+PnSaRADzw/heQujP9+YcNJV9HTXLiVJXDCi3op6Fm0ZJZZxMDRHq+e8HeYzmv4Rx9Z+23urWqVm7v2POo1HCWeLMKP9b2xFVYzRi9qrFlEgCmF0Jn89Xn73d4UHuQAiVKDaVYjkH7ILYraHPnDQVYfeRWHwmJ8F5aAW52qUo23iQjMj9yiOe1LOiXj1UWufjoxymJIGodWTbJzlebkKh0nmM23/dfhnrAnG0goRXeGaianMFX7NaV2nj/QLCPydVGMUAQxynK1Kk4R15YDxpkdAxK6Fw+qeN7uJxi5WT6TUiAA7V0WWuhelGXXylC1f4pAaqSY1pmOKRtbxcrlaSEBL8ZZfeE5gX1uBjKMS06S+9pgbiw=='
+      password: '{cipher}AYA9f1fpyBtVyhjQi6hnQwVBt6QgrwS2lAHFsPnJNQ5MZ9jUb4mW2exMGE0f2lsRFMDIJjGgz5K/U+oD1kDg9Nj6CCi2gP0iypxfGU23lbAM32jUV4rRNHbSkV7sKfp43xh7vj+LIbQn9PVVKBdqECQ9sbdRO76a90YGc2XITNlWiYSPtSyEmUwQQKoFjf9/nKEvOfA+t4WDdTi+q9Q6KMdZ7EJCcF/x9oxrDvahOVuBvf1PRhPpWkKkPOibOtgOQqtCPPrCy91aDhaQlSQ4MPcpDYXzWJl31OnfA98txc7JL9CCFIK05XJOc2VZ9MnCkxVHiiVSjGEdDppSLc5cASqoYIOkSq4gHbQWyEOtCfNWcIU28L7Ghr3JPxzQ8xId7HUdviynH6U/jVqbJ1DSuvpqyE0qDxkO6aYoJnrptF8ojF3zssWA466AbUL8smjPTg3YcbKQlUWqyVMY3rSBoansYlNMJUmhKf068BI9X0WqgM3eWMr5pAr2lx3dvtUpU24rpZUhK7MGJHtRF0B/v0fklciZOPB0u1lImqe4krNvSg=='
    jpa:
       hibernate:
          ddl-auto: update
