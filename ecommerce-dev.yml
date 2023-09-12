@@ -1,7 +1,7 @@
 spring:
    datasource:
       driver-class-name: org.h2.Driver
-      url: jdbc:h2:~/Spring/msa/gateway/h2/user
+      url: jdbc:h2:~/Spring/msa/gateway/h2/users
       username: sa
       password: '{cipher}AYA9f1fpyBtVyhjQi6hnQwVBt6QgrwS2lAHFsPnJNQ5MZ9jUb4mW2exMGE0f2lsRFMDIJjGgz5K/U+oD1kDg9Nj6CCi2gP0iypxfGU23lbAM32jUV4rRNHbSkV7sKfp43xh7vj+LIbQn9PVVKBdqECQ9sbdRO76a90YGc2XITNlWiYSPtSyEmUwQQKoFjf9/nKEvOfA+t4WDdTi+q9Q6KMdZ7EJCcF/x9oxrDvahOVuBvf1PRhPpWkKkPOibOtgOQqtCPPrCy91aDhaQlSQ4MPcpDYXzWJl31OnfA98txc7JL9CCFIK05XJOc2VZ9MnCkxVHiiVSjGEdDppSLc5cASqoYIOkSq4gHbQWyEOtCfNWcIU28L7Ghr3JPxzQ8xId7HUdviynH6U/jVqbJ1DSuvpqyE0qDxkO6aYoJnrptF8ojF3zssWA466AbUL8smjPTg3YcbKQlUWqyVMY3rSBoansYlNMJUmhKf068BI9X0WqgM3eWMr5pAr2lx3dvtUpU24rpZUhK7MGJHtRF0B/v0fklciZOPB0u1lImqe4krNvSg=='
    jpa:
