@@ -1,8 +1,9 @@
-datasource:
-    url: jdbc:h2:~/Spring/msa/gateway/h2/testdb-user
-    username: sa
-    password: '{cipher}5e7d499afbd8f7343f9505d84a9c644b0126dbb0fdf300acc20cb7152a7b0d09'
-  jpa:
-    hibernate:
-      ddl-auto: update
-      show-sql: true
+spring:
+   datasource:
+      url: jdbc:h2:~/Spring/msa/gateway/h2/testdb-user
+      username: sa
+      password: '{cipher}5e7d499afbd8f7343f9505d84a9c644b0126dbb0fdf300acc20cb7152a7b0d09'
+   jpa:
+      hibernate:
+         ddl-auto: update
+         show-sql: true
