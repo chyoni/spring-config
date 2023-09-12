@@ -8,3 +8,6 @@ spring:
       hibernate:
          ddl-auto: update
          show-sql: true
+
+order_service:
+   url: http://127.0.0.1:8000/order-service/%s/orders
